@@ -1,0 +1,38 @@
+/* 1 section */
+.restaurant {
+    color: #5863F8;
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 163px;
+    margin-top: 86px;
+    margin-bottom: 18px;
+}
+.call-to{
+    font-size: 42px;
+    font-weight: 900;
+    margin-left: 163px;
+    margin-bottom: 50px;
+}
+
+.line1,
+.line2 {
+    margin-left: 163px;
+    width: 1088px;
+}
+
+.box {
+    float: left;
+ 
+}
+.image {
+    float: left;
+}
+.text-wrapper {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.box-par {
+    width: 235px;
+}
