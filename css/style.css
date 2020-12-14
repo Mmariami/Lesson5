@@ -19,20 +19,44 @@
     margin-left: 163px;
     width: 1088px;
 }
+.line1{
+    margin-bottom: 16px;
 
+} 
 .box {
     float: left;
- 
+width: 536px;
+height: 190px;
+background-color:#F8F8F8 ;
 }
 .image {
     float: left;
 }
 .text-wrapper {
     float: left;
+    padding-left: 16px;
+    padding-top: 38px;
 }
 .clear {
     clear: both;
 }
 .box-par {
     width: 235px;
+}
+.box-title {
+    font-size: 14px;
+    color: #5863F8;
+    padding-bottom: 8px;
+}
+.mid-text {
+    padding-bottom: 16px;
+}
+/* section 2 */
+.container {
+    width: 1088px;
+    margin-left: 163px;
+}
+.box-down {
+    float: left;
+    padding-right: 10px;
 }
