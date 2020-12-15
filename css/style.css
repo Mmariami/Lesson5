@@ -60,3 +60,29 @@ background-color:#F8F8F8 ;
     float: left;
     padding-right: 10px;
 }
+.blog {
+    color:#5863F8;
+    font-size: 14px;
+    margin-bottom: 8px;
+    margin-top:44px;
+}
+.section2-title {
+    font-size: 42px;
+    font-weight: 800px;
+    margin-bottom: 44px;
+}
+.box1-title {
+    font-size: 14px;
+    color: #5863F8;
+    text-align: center;
+    padding-top: 28px;
+    padding-bottom: 16px;
+}
+.motto {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.box-par1 {
+    width: 220px;
+  font-size: 14px;
+}
